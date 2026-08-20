@@ -1,8 +1,3 @@
-
-
-
-
-
 </div>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -13,20 +8,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current_Role-CTO_at_Hillstone-0E7490?style=for-the-badge" alt="CTO at Hillstone" />
-  <img src="https://img.shields.io/badge/Building-Vexur_AI-10B981?style=for-the-badge" alt="Building Vexur AI" />
+  <img src="https://img.shields.io/badge/Current_Focus-Vexur_CRM-0E7490?style=for-the-badge" alt="Current focus: Vexur CRM" />
+  <img src="https://img.shields.io/badge/Positioning-Zoho_%26_HubSpot_Alternative-10B981?style=for-the-badge" alt="Positioned as a Zoho and HubSpot alternative" />
   <img src="https://img.shields.io/badge/Experience-AI_%7C_SaaS_%7C_Web3-0F172A?style=for-the-badge" alt="AI, SaaS and Web3" />
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Current Mission</h3>
+      <h3>🚀 Current Focus</h3>
       <p>
-        Leading technology at <strong>Hillstone</strong> and directing the architecture,
-        engineering strategy, and delivery of <strong>Vexur</strong> - an AI-enabled
-        <strong>PropTech SaaS platform</strong> for CRM automation, off-market property
-        distribution, client portfolios, and intelligent data workflows.
+        Architecting and delivering <strong>Vexur CRM</strong> - an AI-enabled platform
+        positioned as a focused alternative to <strong>Zoho and HubSpot</strong>, bringing
+        CRM automation, client management, portfolio workflows, property distribution,
+        and intelligent data processing into one system.
       </p>
     </td>
     <td width="50%" valign="top">
@@ -38,96 +33,80 @@
   </tr>
 </table>
 
-Previously at SnarkLabs: Led engineering for DeFi and blockchain financial infrastructure, including decentralized exchanges, governance systems, smart contracts, analytics, monitoring, and backend services.
-
 <p align="center">
-  <strong>Architecture → Product Strategy → Secure Engineering → Reliable Delivery → Continuous Improvement</strong>
+  <strong>AI Products · CRM Platforms · DeFi Infrastructure · Smart-Contract Security · Cloud Systems</strong>
 </p>
 
-What I Work On
+<h2 align="center">⚡ What I Build</h2>
 
-Product and engineering leadership: technical roadmaps, architecture standards, team execution, and delivery ownership.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Vexur CRM</h3>
+      <p><strong>AI-enabled CRM built to challenge legacy platforms.</strong></p>
+      <p>Automation, client management, portfolio workflows, property distribution, and intelligent data - unified.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 DeFi & Protocols</h3>
+      <p><strong>DEX, governance, staking, liquidity, and cross-chain systems.</strong></p>
+      <p>Engineering work across StellaSwap, ZaynSwap, bridges, token infrastructure, and financial protocols.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Smart-Contract Security</h3>
+      <p><strong>Security reviews backed by development experience.</strong></p>
+      <p>Auditing, Foundry testing, vulnerability assessment, protocol risk analysis, and secure implementation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Data & Cloud Platforms</h3>
+      <p><strong>Distributed systems designed for production.</strong></p>
+      <p>Microservices, automation pipelines, event streaming, cloud infrastructure, observability, and CI/CD.</p>
+    </td>
+  </tr>
+</table>
 
-AI-enabled SaaS: intelligent automation, data-processing pipelines, CRM workflows, and multi-role product platforms.
-
-Blockchain and DeFi: DEX architecture, staking, liquidity systems, tokenomics, veToken governance, and cross-chain integrations.
-
-Security: smart-contract audits, vulnerability assessment, risk analysis, Foundry-based testing, and secure protocol design.
-
-Distributed backends: microservices, event-driven systems, APIs, messaging, caching, and performance optimization.
-
-Cloud infrastructure: AWS, container orchestration, infrastructure as code, CI/CD, observability, and platform reliability.
-
-Technology Stack
-
-Languages, application engineering, and infrastructure
+<h2 align="center">🧰 Technology</h2>
 
 <div align="center">
 
 
 
+<br />
+
+
+
+
+
+
 </div>
 
-Platforms and engineering capabilities
+<details>
+  <summary><strong>🏗️ View selected systems and protocols</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <td><strong>CRM & AI</strong></td>
+      <td>Vexur CRM, automation pipelines, intelligent workflows, and real-estate data systems</td>
+    </tr>
+    <tr>
+      <td><strong>DEX & Governance</strong></td>
+      <td>StellaSwap, ZaynSwap, KedolikSwap, analytics, monitoring, and governance infrastructure</td>
+    </tr>
+    <tr>
+      <td><strong>Cross-chain & Staking</strong></td>
+      <td>LayerZero OFT Bridge, Eyeverse, Soul Searchers, Voodoo, and token-staking platforms</td>
+    </tr>
+    <tr>
+      <td><strong>Financial Protocols</strong></td>
+      <td>Nawa Finance, Vols Finance, ALM Contracts, Maxi Swap, and liquidity systems</td>
+    </tr>
+  </table>
+</details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Selected Engineering Work
-
-Product / system
-
-Engineering focus
-
-Vexur AI
-
-AI-enabled PropTech SaaS, CRM automation, off-market property distribution, client portfolios, and data-processing workflows
-
-StellaSwap
-
-Governance infrastructure, smart-contract and backend integration, monitoring, and ecosystem automation
-
-ZaynSwap & KedolikSwap
-
-DEX architecture, protocol engineering, analytics, and scalable service integration
-
-LayerZero OFT Bridge
-
-Cross-chain token infrastructure and interoperability
-
-Eyeverse, Soul Searchers & Voodoo
-
-NFT staking, token staking, marketplace, and faucet systems
-
-Nawa Finance, Vols Finance, ALM & Maxi Swap
-
-DeFi, financial protocols, liquidity systems, and smart-contract engineering
-
-Real-estate data systems
-
-Scraper bots, intelligent automation pipelines, and distributed data processing
-
-Engineering Principles
-
-Start with the product outcome. Architecture should serve users and the business.
-
-Make trade-offs explicit. Scale, security, speed, and cost must be deliberate decisions.
-
-Keep systems observable. Reliability requires visibility across code, infrastructure, and workflows.
-
-Treat security as architecture. It cannot be added at the end of delivery.
-
-Build teams, not dependencies. Clear standards, ownership, and feedback create sustainable execution.
+<p align="center">
+  <strong>Product Strategy → Scalable Architecture → Secure Engineering → Reliable Delivery</strong>
+</p>
 
 GitHub Insights
 
