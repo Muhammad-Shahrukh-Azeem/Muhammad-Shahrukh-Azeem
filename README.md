@@ -1,9 +1,3 @@
-<div align="center">
-
-
-
-
-
 
 
 
@@ -11,15 +5,44 @@
 
 </div>
 
-About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-I am a CTO and engineering architect focused on turning complex product ideas into secure, scalable production platforms. My work sits at the intersection of AI-enabled SaaS, distributed systems, blockchain infrastructure, cloud engineering, and product leadership.
+<p align="center">
+  <strong>CTO · Engineering Architect · Product Builder</strong><br />
+  I turn ambitious product ideas into <strong>secure, scalable, production-ready platforms</strong>.
+</p>
 
-I currently lead technology at Hillstone, where I direct architecture and engineering delivery for Vexur - an AI-enabled PropTech platform supporting CRM automation, off-market property distribution, client portfolios, and intelligent data workflows.
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Role-CTO_at_Hillstone-0E7490?style=for-the-badge" alt="CTO at Hillstone" />
+  <img src="https://img.shields.io/badge/Building-Vexur_AI-10B981?style=for-the-badge" alt="Building Vexur AI" />
+  <img src="https://img.shields.io/badge/Experience-AI_%7C_SaaS_%7C_Web3-0F172A?style=for-the-badge" alt="AI, SaaS and Web3" />
+</p>
 
-Previously, as CTO at SnarkLabs, I led engineering for DeFi and blockchain financial infrastructure, including DEX platforms, governance systems, smart contracts, analytics, and monitoring tools. My earlier work includes full-stack blockchain development and smart-contract security reviews for protocols and NFT platforms.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Current Mission</h3>
+      <p>
+        Leading technology at <strong>Hillstone</strong> and directing the architecture,
+        engineering strategy, and delivery of <strong>Vexur</strong> - an AI-enabled
+        <strong>PropTech SaaS platform</strong> for CRM automation, off-market property
+        distribution, client portfolios, and intelligent data workflows.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 Engineering Scope</h3>
+      <p><strong>Strategy:</strong> Product architecture, technical roadmaps, and engineering leadership.</p>
+      <p><strong>Systems:</strong> Distributed backends, AI automation, cloud infrastructure, and reliable delivery.</p>
+      <p><strong>Security:</strong> Smart contracts, protocol engineering, auditing, and risk analysis.</p>
+    </td>
+  </tr>
+</table>
 
-Architecture  ->  Product strategy  ->  Secure implementation  ->  Reliable delivery  ->  Continuous improvement
+Previously at SnarkLabs: Led engineering for DeFi and blockchain financial infrastructure, including decentralized exchanges, governance systems, smart contracts, analytics, monitoring, and backend services.
+
+<p align="center">
+  <strong>Architecture → Product Strategy → Secure Engineering → Reliable Delivery → Continuous Improvement</strong>
+</p>
 
 What I Work On
 
